@@ -7,4 +7,3 @@
 ### Finally, I built the Jenkins pipeline and connected to the EC2 instance created on AWS and installed the necessary environments on the machine (helm, docker, kubernetes, go etc.)
 ![Optional Text](https://github.com/Talhaasan/go-services/blob/main/images/jenkins-pipeline.png)
 ![Optional Text](https://github.com/Talhaasan/go-services/blob/main/images/ec2instance.png)
-

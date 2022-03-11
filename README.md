@@ -1,6 +1,6 @@
 # DevOps Engineer Challenge
 ### Firstly, I examined the project and created its architecture.
-![Optional Text](https://github.com/Talhaasan/go-services/blob/main/projectContent/images/ec2instance.png)
+![Optional Text](https://github.com/Talhaasan/go-services/blob/main/projectContent/images/project_architecture.png)
 ### Secondly, I created Producer and Consumer services with Go. Then, I created a Docker image of the services using Dockerfile and published this image on Docker Hub. Furthermore, I connected and published messages with RabbitMQ in these services.
 ![Optional Text](https://github.com/Talhaasan/go-services/blob/main/projectContent/images/dockerhub.png)
 ![Optional Text](https://github.com/Talhaasan/go-services/blob/main/projectContent/images/rabbitmq.png)
